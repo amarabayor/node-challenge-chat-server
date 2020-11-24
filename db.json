@@ -1,14 +1,1 @@
-[
-{"id":0,
-"from":"Bart",
-"text":"Welcome to CYF chat system!"},
-{"id":1,
-    "from":"Bayor",
-    "text":"Thanks for being here!"},
-
-
-{"id":2,
-"from":"123123",
-"text":"We are the chempions",
-"timeSent":"2020-11-22T14:56:13.047Z"}
-]
+[{"id":0,"from":"Bart","text":"Welcome to CYF chat system!"},{"id":1,"from":"Bayor","text":"Thanks for being here!"},{"id":2,"from":"123123","text":"We are the chempions","timeSent":"2020-11-22T14:56:13.047Z"},{"id":3,"timeSent":"2020-11-23T15:00:50.399Z"},{"from":"Amara","text":"We are the chempions","id":4,"timeSent":"2020-11-23T15:01:40.281Z"},{"from":"Amara","text":"We are the chempions","id":5,"timeSent":"2020-11-23T15:01:53.273Z"},{"from":"Vincent","text":"We are the chempions of Migracode","id":6,"timeSent":"2020-11-23T15:32:09.075Z"},{"from":"Angelo","text":"The Migracode Senior Educator","id":7,"timeSent":"2020-11-23T15:33:55.785Z"},{"from":"Carlos","text":"The Migracode Educator","id":8,"timeSent":"2020-11-23T15:35:32.899Z"},{"from":"Marta","text":"The Migracode Adviser","id":9,"timeSent":"2020-11-23T15:36:41.876Z"},{"from":"Cobo","text":"He is my mentor","id":10,"timeSent":"2020-11-23T15:38:01.629Z"}]
